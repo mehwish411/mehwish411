@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on : Embedded Systems.
-- 🌱 I’m currently learning: Embedded programming and AI.
-- 📚 Tech Stack: C/C++, Python, Arduino, Raspberry Pi.
+- 🌱 I’m currently learning: Embedded programming.
+- 📚 Tech Stack: C/C++, Python, Verilog, TL-verilog, FPGA, Raspberry Pi.
 - 📫 How to reach me: mehwishaleem321@gmail.com
